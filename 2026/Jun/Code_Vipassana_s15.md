@@ -45,5 +45,4 @@ Successfully completed **3 out of 5 labs** in **Code Vipassana Season 15 – Age
 
 ![Code Vipassana Season 15 Certificate](https://github.com/cooljay17/Learning_Journal/blob/main/Images/Jayanthi%20Manickam%20Sethu_certificate_s15.jpeg)
 
-**Image Source:**  
-https://github.com/cooljay17/Learning_Journal/blob/main/Images/Jayanthi%20Manickam%20Sethu_certificate_s15.jpeg
+
