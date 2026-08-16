@@ -1,0 +1,8 @@
+Tried to commit and push empty folders to github 
+and found out
+Git strictly tracks files, not empty folders.
+Because Git calculates changes based on file contents, a directory
+with absolutely nothing inside it generates no internal tracking hash and is completely ignored during a commit or push.
+
+💡 The Solution: Use Placeholder FilesTo force GitHub to recognize and push your empty folders, you must place a dummy file inside each of them. 
+The community standard for this is a hidden file named .gitkeep.
